@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0",
+    "moment-timezone": "^0.5.27",
+    "readline-sync": "^1.4.10",
+    "xmldom": "^0.2.1",
+    "xpath": "^0.0.27"
+  }
+}
